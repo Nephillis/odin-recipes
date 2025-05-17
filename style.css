@@ -1,0 +1,35 @@
+
+body {
+    background-color: tan;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+img {
+    width: 125px;
+    height: auto;
+    margin: 5px auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+
+.macsalad, .bmpancake, .slaw {
+    font-size: large;
+    display: inline-block;
+    padding: 10px;
+    background-color: #FDFBD4;
+    margin: 0 15px;
+    border: 3px dotted;
+    box-sizing: border-box;
+}
+
+.recipe {
+    text-align: center;
+}
+

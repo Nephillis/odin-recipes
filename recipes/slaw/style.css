@@ -1,0 +1,46 @@
+body {
+    background-color: tan;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box {
+    background-color: #FDFBD4;
+    box-sizing: border-box;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.home {
+    display: block;
+    text-align: center;
+    width: 100px;
+    margin: 20px auto;
+    padding:10px;
+    background-color: #FDFBD4;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 7px 15px;
+}
+
+ul {
+    width: 300px;
+    margin: 15px auto;
+}
